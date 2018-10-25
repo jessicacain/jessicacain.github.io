@@ -1,0 +1,53 @@
+*{
+	padding:0;
+	margin:0;
+}
+
+
+nav a{
+	color:#ffcf01;
+	margin-right:10px;
+	font-family: Montserrat, Helvetica, Arial, Lucida, sans-serif;
+	font-style:bold;
+}
+
+header{
+	padding:20px;
+
+}
+
+
+body{
+	font-family: Montserrat, Helvetica, Arial, Lucida, sans-serif;
+	font-size:15px;
+	color:#5C5B57;
+	line-height:1.3;
+	padding: 20px;
+	text-align: center;
+}
+
+section{
+	font-family: Montserrat, Helvetica, Arial, Lucida, sans-serif;
+}
+
+a{
+	text-decoration: none;
+	color:#ffcf01;
+}
+
+ul{
+	padding:10px;
+	text-align:center;
+	list-style-position: inside;
+}
+
+figure img{
+	width:800px;
+	padding:30px
+}
+
+
+footer {
+	padding:10px;
+
+}
