@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text');
+
+*{
+	padding:0;
+	margin:0;
+}
+
+nav {
+	color:#ffcf01;
+	margin-right:10px;
+	font-family: 'Crimson Text', serif;
+	font-style:bold;
+	font-size:16px;
+	line-height: 1.5em;
+	border-bottom: none;
+	background-color:#405900;
+}
+
+header{
+	padding:20px;
+}
+
+section{
+	font-family: 'Crimson Text', serif;
+	font-size:16px;
+	color:#5C5B57;
+	line-height:1.5em;
+	padding: 15px;
+	text-align: center;
+	background-color:#E89C6C;
+}
+
+body{
+	font-family: 'Crimson Text', serif;
+	font-size:16px;
+	color:#5C5B57;
+	line-height:1.5em;
+	padding: 15px;
+	text-align: center;
+}
+
+
+a{
+	text-decoration: none;
+	color:#ffcf01;
+	border-bottom: solid;
+}
+
+ul{
+	text-align:center;
+	list-style-position: inside;
+}
+
+figure img{
+	width:800px;
+	padding:30px
+}
+
+hr{
+	height: 3px;
+	background-color:#ffcf01;
+	width: 30em;
+	border:none;
+	margin: 1em auto;
+}
+
+#two_column {
+	background-color: #FFCF01;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#left {
+	background-color: #FF9B01;
+	border: 1px black solid;
+	padding: 20px;
+	float: left;
+	width: 62%;
+}
+
+#right {
+	background-color: #B03B01;
+	border: 1px black solid;
+	padding: 20px;
+	float: right;
+	width: 30%;
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
+footer {
+	padding:5px;
+	background-color:#FF957E
+}
