@@ -13,7 +13,6 @@ nav {
 	font-size:16px;
 	line-height: 1.5em;
 	border-bottom: none;
-	background-color:#405900;
 }
 
 header{
@@ -23,11 +22,9 @@ header{
 section{
 	font-family: 'Crimson Text', serif;
 	font-size:16px;
-	color:#5C5B57;
 	line-height:1.5em;
 	padding: 15px;
 	text-align: center;
-	background-color:#E89C6C;
 }
 
 body{
@@ -38,7 +35,6 @@ body{
 	padding: 15px;
 	text-align: center;
 }
-
 
 a{
 	text-decoration: none;
@@ -51,11 +47,6 @@ ul{
 	list-style-position: inside;
 }
 
-figure img{
-	width:800px;
-	padding:30px
-}
-
 hr{
 	height: 3px;
 	background-color:#ffcf01;
@@ -64,14 +55,20 @@ hr{
 	margin: 1em auto;
 }
 
+img{
+	width: 60%;
+}
+
 #two_column {
-	background-color: #FFCF01;
 	border: 1px black solid;
 	padding: 20px;
 }
 
+.header_img{
+	width: 300px;
+}
+
 #left {
-	background-color: #FF9B01;
 	border: 1px black solid;
 	padding: 20px;
 	float: left;
@@ -79,7 +76,6 @@ hr{
 }
 
 #right {
-	background-color: #B03B01;
 	border: 1px black solid;
 	padding: 20px;
 	float: right;
@@ -97,5 +93,4 @@ hr{
 
 footer {
 	padding:5px;
-	background-color:#FF957E
 }
