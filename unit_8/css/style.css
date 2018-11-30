@@ -67,7 +67,8 @@ img{
 
 #hero {
 	width: 35%;
-	padding-left: 30em;
+	padding-left: 15em;
+	padding-right: 15em;
 }
 
 #two_column {
@@ -75,53 +76,76 @@ img{
 }
 
 #shop_pillows {
-	padding: 5em;
+	padding: 3em;
 	float: right;
 	width: 35%;
-	margin: 2em;
+}
+
+#shop_pillows img {
+	width: 100%;
 }
 
 #shop_tabletop {
-	padding: 5em;
+	padding: 3em;
 	float: right;
 	width: 35%;
-	margin: 2em;
+	
+}
+
+#shop_tabletop img {
+	width: 100%;
 }
 
 #shop_garden {
-	padding: 5em;
+	padding: 3em;
 	float: right;
 	width: 35%;
-	margin: 2em;
+}
+
+#shop_garden img {
+	width: 100%;
 }
 
 #shop_furniture {
-	padding: 5em;
+	padding: 3em;
 	float: right;
 	width: 35%;
-	margin: 2em;
+}
+
+#shop_furniture img {
+	width: 100%;
 }
 
 #shop_baby {
-	padding: 5em;
+	padding: 3em;
 	float: right;
 	width: 35%;
-	margin: 2em;
+}
+
+#shop_baby img {
+	width: 100%;
 }
 
 #shop_linens {
-	padding: 5em;
+	padding: 3em;
 	float: right;
 	width: 35%;
-	margin: 2em;
+}
+
+#shop_linens img {
+	width: 100%;
 }
 
 #blog {
-	padding: 5em;
+	padding: 3em;
 	width: 86%;
 	float: right;
 	margin: 2em;
 	padding-right:3em;
+}
+
+#blog img {
+	width: 100%;
 }
 
 .clearfix:after {
