@@ -1,0 +1,198 @@
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text');
+
+*{
+	padding:0;
+	margin:0;
+	box-sizing: border-box;
+	float:none;
+}
+
+nav {
+	color:#5C5B57;
+	margin:1em;
+	padding:1em;
+	font-family: 'Crimson Text', serif;
+	font-style: bold;
+	font-size:16px;
+	line-height: 1.5em;
+	float: none;
+}
+
+header{
+	padding:1em;
+	padding-bottom: 0;
+}
+
+body{
+	font-family: 'Crimson Text', serif;
+	font-size:16px;
+	color:#5C5B57;
+	line-height:1.5em;
+	padding: 1em;
+	text-align: center;
+}
+
+nav a{
+	text-decoration: none;
+	color: #5C5B57;
+	border-bottom: solid #ffcf01;
+}
+
+a:hover{
+    color: #ffcf01;
+}
+
+a{
+	text-decoration: none;
+	color: #5C5B57;
+}
+
+ul{
+	text-align:center;
+	list-style-position: inside;
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+footer a{
+	border-bottom: solid #ffcf01;
+}
+
+#logo {
+	min-width: 200px;
+	max-width: 35%;
+	padding: 1em;
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
+#wrapper{
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.collection {
+	background: url(file:///Users/Jessica/Documents/GitHub/jessicacain.github.io/unit_9/images/entertaining.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin: 1em;
+	height: 30em;
+	width: 45em;
+	background-position: center;
+	padding: 4em 0;
+	display: block;
+}
+
+span {
+	background: white;
+	padding: 1em;
+}
+
+#shop {
+	padding: 4em;
+	margin: 1%;
+	display: block;
+}
+
+.a {
+	background: url(file:///Users/Jessica/Documents/GitHub/jessicacain.github.io/unit_9/images/LSA_BUTTER-DISH_2131.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 45%;
+	height: 30em;
+	margin: 1em;
+	background-position: center;
+	padding: 4em 0;
+	display: block;
+	float: left;
+}
+
+.b {
+	background: url(file:///Users/Jessica/Documents/GitHub/jessicacain.github.io/unit_9/images/BE-HOME_2203%201.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 45%;
+	height: 30em;
+	margin: 1em;
+	background-position: center;
+	padding: 4em 0;
+	display: block;
+	float: left;
+}
+
+.c {
+	background: url(file:///Users/Jessica/Documents/GitHub/jessicacain.github.io/unit_9/images/BE-HOME_2278.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 45%;
+	height: 30em;
+	margin: 1em;
+	background-position: center;
+	padding: 4em 0;
+	display: block;
+	float: left;
+}
+
+.d {
+	background: url(file:///Users/Jessica/Documents/GitHub/jessicacain.github.io/unit_9/images/BE-HOME_2289.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 45%;
+	height: 30em;
+	margin: 1em;
+	background-position: center;
+	padding: 4em 0;
+	display: block;
+	float: left;
+}
+
+.stories {
+	background: url();
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin: 1%;
+	height: 30em;
+	width: 45em;
+	background-position: center;
+	padding: 4em 0;
+	display: block;
+}
+
+.mission {
+	padding: 4em 0;
+	display: block;
+}
+
+address{
+	font-style: normal;
+}
+
+footer {
+	padding: 2em;
+}
+
+@media screen only and (max-width: 800px) {
+body {
+font-size: 18px;
+}
+.collection{
+	background: relative;
+}
+}
