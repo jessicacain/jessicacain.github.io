@@ -94,7 +94,6 @@ footer a{
 	background-repeat: no-repeat;
 	margin: 1em;
 	height: 30em;
-	width: 45em;
 	background-position: center;
 	padding: 4em 0;
 	display: block;
@@ -115,7 +114,7 @@ span {
 	background: url(file:///Users/Jessica/Documents/GitHub/jessicacain.github.io/unit_9/images/LSA_BUTTER-DISH_2131.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
-	width: 45%;
+	width: 47%;
 	height: 30em;
 	margin: 1em;
 	background-position: center;
@@ -128,7 +127,7 @@ span {
 	background: url(file:///Users/Jessica/Documents/GitHub/jessicacain.github.io/unit_9/images/BE-HOME_2203%201.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
-	width: 45%;
+	width: 47%;
 	height: 30em;
 	margin: 1em;
 	background-position: center;
@@ -141,7 +140,7 @@ span {
 	background: url(file:///Users/Jessica/Documents/GitHub/jessicacain.github.io/unit_9/images/BE-HOME_2278.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
-	width: 45%;
+	width: 47%;
 	height: 30em;
 	margin: 1em;
 	background-position: center;
@@ -154,7 +153,7 @@ span {
 	background: url(file:///Users/Jessica/Documents/GitHub/jessicacain.github.io/unit_9/images/BE-HOME_2289.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
-	width: 45%;
+	width: 47%;
 	height: 30em;
 	margin: 1em;
 	background-position: center;
@@ -164,12 +163,11 @@ span {
 }
 
 .stories {
-	background: url();
+	background: url(file:///Users/Jessica/Documents/GitHub/jessicacain.github.io/unit_9/images/G&P-BRASSTACKS_PC-JESSICA-CAIN_2619.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
-	margin: 1%;
+	margin: 1em;
 	height: 30em;
-	width: 45em;
 	background-position: center;
 	padding: 4em 0;
 	display: block;
@@ -194,5 +192,34 @@ font-size: 18px;
 }
 .collection{
 	background: relative;
+	width: 100%
+	height: 2em;
+}
+
+.a{
+	background: relative;
+	width: 100%
+	height: 2em;
+	float: none;
+}
+
+.b{
+	background: relative;
+	width: 100%
+	height: 2em;
+	float: none;
+}
+
+.c{background: relative;
+	width: 100%
+	height: 2em;
+	float: none;
+}
+
+.d{
+	background: relative;
+	width: 100%
+	height: 2em;
+	float: none;
 }
 }
