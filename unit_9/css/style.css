@@ -89,10 +89,10 @@ footer a{
 }
 
 .collection {
-	background: url(file:///Users/Jessica/Documents/GitHub/jessicacain.github.io/unit_9/images/entertaining.jpg);
+	background: url(../images/entertaining.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
-	margin: 1em;
+	margin: 1%;
 	height: 30em;
 	background-position: center;
 	padding: 4em 0;
@@ -111,12 +111,12 @@ span {
 }
 
 .a {
-	background: url(file:///Users/Jessica/Documents/GitHub/jessicacain.github.io/unit_9/images/LSA_BUTTER-DISH_2131.jpg);
+	background: url(../images/LSA_BUTTER-DISH_2131.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
-	width: 47%;
+	width: 48%;
 	height: 30em;
-	margin: 1em;
+	margin: 1%;
 	background-position: center;
 	padding: 4em 0;
 	display: block;
@@ -124,12 +124,12 @@ span {
 }
 
 .b {
-	background: url(file:///Users/Jessica/Documents/GitHub/jessicacain.github.io/unit_9/images/BE-HOME_2203%201.jpg);
+	background: url(../images/BE-HOME_2203%201.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
-	width: 47%;
+	width: 48%;
 	height: 30em;
-	margin: 1em;
+	margin: 1%;
 	background-position: center;
 	padding: 4em 0;
 	display: block;
@@ -137,12 +137,12 @@ span {
 }
 
 .c {
-	background: url(file:///Users/Jessica/Documents/GitHub/jessicacain.github.io/unit_9/images/BE-HOME_2278.jpg);
+	background: url(../images/BE-HOME_2278.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
-	width: 47%;
+	width: 48%;
 	height: 30em;
-	margin: 1em;
+	margin: 1%;
 	background-position: center;
 	padding: 4em 0;
 	display: block;
@@ -150,12 +150,12 @@ span {
 }
 
 .d {
-	background: url(file:///Users/Jessica/Documents/GitHub/jessicacain.github.io/unit_9/images/BE-HOME_2289.jpg);
+	background: url(../images/BE-HOME_2289.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
-	width: 47%;
+	width: 48%;
 	height: 30em;
-	margin: 1em;
+	margin: 1%;
 	background-position: center;
 	padding: 4em 0;
 	display: block;
@@ -163,10 +163,10 @@ span {
 }
 
 .stories {
-	background: url(file:///Users/Jessica/Documents/GitHub/jessicacain.github.io/unit_9/images/G&P-BRASSTACKS_PC-JESSICA-CAIN_2619.jpg);
+	background: url(../images/G&P-BRASSTACKS_PC-JESSICA-CAIN_2619.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
-	margin: 1em;
+	margin: 1%;
 	height: 30em;
 	background-position: center;
 	padding: 4em 0;
@@ -186,39 +186,39 @@ footer {
 	padding: 2em;
 }
 
-@media screen only and (max-width: 800px) {
+@media only screen and (max-width: 800px) {
 body {
 font-size: 18px;
 }
 .collection{
 	background: relative;
-	width: 100%
+	width: 100%;
 	height: 2em;
 }
 
 .a{
 	background: relative;
-	width: 100%
+	width: 100%;
 	height: 2em;
 	float: none;
 }
 
 .b{
 	background: relative;
-	width: 100%
+	width: 100%;
 	height: 2em;
 	float: none;
 }
 
 .c{background: relative;
-	width: 100%
+	width: 100%;
 	height: 2em;
 	float: none;
 }
 
 .d{
 	background: relative;
-	width: 100%
+	width: 100%;
 	height: 2em;
 	float: none;
 }
